@@ -1,11 +1,7 @@
-<div align="center"> Hi 👋  I'am Chloe Jeong</div>
+<div align="center"><h1> Hi 👋  I'am Chloe Jeong</h1></div>
 
-[![Hits](https://github.com/susujjjj/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFEADF&title_bg=%23FF9898&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/susujjjj)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&layout=compact&theme=tokyonight)
-
+<div class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&layout=compact&theme=tokyonight" /></div>
 
 <div align="center">
   <h2> STACK📚 </h2>
