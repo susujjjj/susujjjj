@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-https://github-readme-stats.vercel.app/api?username=susujjjj&theme=blue-green
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=susujjjj&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&theme=blue-green
 
 <h2> My tech stack📚 </h2>
 
