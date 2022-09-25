@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github-readme-stats.vercel.app/api?username={susujjjj}&theme=blue-green
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={susujjjj}&theme=blue-green
+
+<h2> My tech stack📚 </h2>
+
+
 -->
