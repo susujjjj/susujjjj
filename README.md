@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=susujjjj&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&layout=compact&theme=tokyonight)
+
 
 <h2> My tech stack📚 </h2>
 
