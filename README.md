@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
-https://github-readme-stats.vercel.app/api?username={susujjjj}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username=susujjjj&theme=blue-green
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={susujjjj}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&theme=blue-green
 
 <h2> My tech stack📚 </h2>
 
