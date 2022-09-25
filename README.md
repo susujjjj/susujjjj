@@ -1,7 +1,8 @@
 <div align="center"><h1> Hi 👋  I'am Chloe Jeong</h1></div>
 
-<div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&layout=compact&theme=tokyonight" /></div>
+<div align="center">
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susujjjj&layout=compact&theme=tokyonight" />
+</div>
 
 <div align="center">
   <h2> STACK📚 </h2>
